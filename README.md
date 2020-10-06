@@ -175,12 +175,12 @@ przez nie tekstu. Uwagi:
     sprawdzić, skąd są pobierane formy. Kolekcja `wyrazy`
     to nie to samo, co generator `podaj_wyrazy(KSIĄŻKA)`.
 
-9. W sprawozdaniu zamieścić nazwiska autorów, uzupełnioną
-zawartość pliku `zadanie.py`, tytuł wybranej książki,
-10 najczęstszych wyrazów w tej książce wraz z częstością
-ich wystąpień oraz cztery wykresy, stworzone za pomocą
-programu. Wykresy można zapisywać na dysku po kliknięciu
-ikony dyskietki (pierwszej ikony od prawej strony na dole
+9. W sprawozdaniu zamieścić uzupełnioną zawartość pliku
+`zadanie.py`, tytuł wybranej książki, 10 najczęstszych
+wyrazów w tej książce wraz z częstością ich wystąpień
+oraz cztery wykresy, stworzone za pomocą programu.
+Wykresy można zapisywać na dysku po kliknięciu ikony
+dyskietki (pierwszej ikony od prawej strony na dole
 okna z wykresem). Poniżej zasady składania sprawozdań
 ze wszystkich laboratoriów:
 
