@@ -10,7 +10,7 @@ na dysk lokalny.
     ```
 
 2. Zainstalować zewnętrzne biblioteki Pythona:
-`matplotlib` do tworzenia wykresów i `python-morfeusz`
+`matplotlib` do tworzenia wykresów i `morfeusz2`
 do analizy morfologicznej tekstów polskich: patrz
 [instrukcje instalacji Morfeusza](http://morfeusz.sgjp.pl/download/).
 
