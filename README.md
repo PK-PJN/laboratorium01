@@ -11,11 +11,11 @@ na dysk lokalny.
 
 2. Zainstalować zewnętrzne biblioteki Pythona:
 `matplotlib` do tworzenia wykresów i `python-morfeusz`
-do analizy morfologicznej tekstów polskich.
+do analizy morfologicznej tekstów polskich: patrz
+[instrukcje instalacji Morfeusza](http://morfeusz.sgjp.pl/download/).
 
     ```
     pip install matplotlib
-    pip install python-morfeusz
     ```
 
 3. Pobrać z serwisu https://wolnelektury.pl dowolną książkę
