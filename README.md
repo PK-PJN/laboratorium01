@@ -181,7 +181,15 @@ zawartość pliku `zadanie.py`, tytuł wybranej książki,
 ich wystąpień oraz cztery wykresy, stworzone za pomocą
 programu. Wykresy można zapisywać na dysku po kliknięciu
 ikony dyskietki (pierwszej ikony od prawej strony na dole
-okna z wykresem).
+okna z wykresem). Poniżej zasady składania sprawozdań
+ze wszystkich laboratoriów:
+
+    * Format PDF (plik o dowolnej nazwie).
+
+    * Na początku dane twórcy.
+
+    * Wgrywane na MS Teams w dziale Assignments.
+    Proszę nie zapomnieć nacisnąć "turn in".
 
 10. Zadanie nadobowiązkowe:
 
