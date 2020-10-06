@@ -33,7 +33,7 @@ def formy_podstawowe(wyraz):
     formy = []
     for interpretacja in MORFEUSZ.analyse(wyraz):
         formy.append(interpretacja[2][1])
-    return formy
+    return sorted(formy)
 
 
 def jednoznaczna_forma_podstawowa(wyraz):

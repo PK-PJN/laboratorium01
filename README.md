@@ -147,9 +147,9 @@ aby zwracała ona:
     np. dla wyrazu `'patrzę'` — pierwszą z form `'patrzeć'`
     i `'patrzyć'`. Wskazówki:
 
-        * Funkcja `formy_podstawowe()` zwraca listę
-        uporządkowaną leksykograficznie dzięki klauzuli
-        `ORDER BY base`.
+        * Funkcja `formy_podstawowe()` zwraca posortowaną listę.
+        Dla naszych celów ważne jest to, że porządek jest
+        niezmienny, a nieważne to, że np. `'b' < 'ą'`.
 
         * Wywołanie funkcji `len(napis)` zwraca długość
         napisu `napis`. Podobnie wywołanie funkcji
