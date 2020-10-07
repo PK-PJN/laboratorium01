@@ -103,8 +103,8 @@ wyrazów wraz z częstością ich wystąpień. Uwagi:
     iloczyn rangi wyrazów (czyli ich numerów na liście
     frekwencyjnej) i częstości ich występowania w tekście
     jest w przybliżeniu stały, np. jeśli najczęstszy wyraz
-    stanowi 2% tekstu, to wyraz dziesiąty pod względem
-    częstości stanowi 0,2% tekstu, wyraz setny — 0,02%
+    stanowi 2% tekstu, to wyraz jedenasty pod względem
+    częstości stanowi 0,2% tekstu, 101. wyraz — 0,02%
     tekstu itd. Zatem podwójnie logarytmiczny wykres
     częstości wyrazów jako funkcji ich rangi powinien
     się układać w linię prostą: pomnożeniu rangi wyrazu
