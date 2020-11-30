@@ -66,7 +66,7 @@ def main():
 
     plt.xscale('log')
     plt.yscale('linear')
-    y = [0]
+    y = []
     # TU(6): narysować półlogarytmiczny wykres pokrycia tekstu
     # przez wyrazy. N-ty element tablicy `y` ma być równy sumie
     # częstości wyrazów od najczęstszego do N-tego pod względem
